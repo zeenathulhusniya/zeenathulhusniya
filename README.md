@@ -3,7 +3,7 @@
 ## Junior Software Developer
 
 ### Education
-🎓 Bachelor of Technology (B.Tech)
+🎓 Bachelor of Cyber Security
 📅 Expected Graduation: 2026
 
 ### Skills
