@@ -3,7 +3,7 @@
 ## Junior Software Developer
 
 ### Education
-🎓 Bachelor of Cyber Security
+🎓 Cyber Security Intership Training
 📅 Expected Graduation: 2026
 
 ### Skills
